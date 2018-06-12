@@ -1,0 +1,47 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Type4-esp-12F-v121-BIGSIZE--SMD1206
+*Date=16:00:17
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;14.1004;-21.9343;0;Bottom;TXT3
+2;;THT;66.0273;-20.7861;90;Bottom;TX/RX
+3;;;52.172;-11.1855;0;Top;ESP-12F
+4;;;46.5586;-19.2788;0;Bottom;Via27
+5;;tactile-switch-1101ne;74.6972;-21.286;0;Top;RESET
+6;;;14.0472;-13.5359;0;Bottom;Via19
+7;;;55.5472;-9.78606;0;Bottom;Via8
+8;10k;THT;41.7973;-15.596;-90;Bottom;10k?1
+9;;;14.0473;-9.03602;0;Bottom;Via21
+10;;;7.54726;-15.036;0;Bottom;Via26
+11;;;40.0473;-5.78602;0;Bottom;Via22
+12;;molex-1x2_lock;22.9443;-21.79;0;Bottom;-F1+
+13;;tactile-switch-1101ne;74.6972;-15.536;0;Top;FLASH
+14;4.7k;THT;69.7972;-7.0961;-90;Bottom;4.7k?
+15;;THT;10.7973;-9.01602;0;Bottom;OLED BTN
+16;;;4.36174;-9.0361;90;Bottom;Oled
+17;;molex-1x3_lock;4.83726;-21.913;0;Bottom;-+DATA
+18;;molex-1x3_lock;36.5873;-21.913;0;Bottom;+DHT-
+19;;300 mil [THT];27.3318;-10.5361;180;Bottom;DIODE
+20;;;53.0472;-11.7859;0;Bottom;Via9
+21;10k;THT;14.7374;-4.78612;180;Bottom;10k?
+22;;;17.0473;-16.536;0;Bottom;Via24
+23;;THT;36.0473;-8.51602;0;Bottom;SETUP BTN
+24;;;1.12649;-8.82082;90;Bottom;TXT4
+25;;TO92 [THT];20.0276;-13.2666;90;Bottom;BC547
+26;;;12.7942;-15.0289;0;Bottom;Via25
+27;4.7k;THT;73.5474;-7.22593;90;Bottom;4.7k?
+28;;;14.0871;-21.81;0;Bottom;AMS1117
+29;470;THT;27.4264;-13.036;0;Bottom;470?
+30;;molex-1x2_lock;29.1943;-21.79;0;Bottom;-F2+
+31;4.7k;THT;66.0473;-7.0961;-90;Bottom;4.7k?
+32;;;46.5586;-7.54136;0;Bottom;Via28
