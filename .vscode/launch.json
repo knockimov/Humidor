@@ -12,7 +12,7 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PlatformIO Debugger",
-            "executable": "c:/Users/User/Documents/GitHub/Humidor.git/trunk/.pioenvs/esp12e/firmware.elf",
+            "executable": "c:/Users/User/Documents/GitHub/Humidor.git/trunk/.pioenvs/esp12e/firmware_noLCD_1.2.1.elf",
             "toolchainBinDir": "",
             "preLaunchTask": "PlatformIO: Pre-Debug",
             "internalConsoleOptions": "openOnSessionStart"
@@ -21,7 +21,7 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PlatformIO Debugger (Skip Pre-Debug)",
-            "executable": "c:/Users/User/Documents/GitHub/Humidor.git/trunk/.pioenvs/esp12e/firmware.elf",
+            "executable": "c:/Users/User/Documents/GitHub/Humidor.git/trunk/.pioenvs/esp12e/firmware_noLCD_1.2.1.elf",
             "toolchainBinDir": "",
             "internalConsoleOptions": "openOnSessionStart"
         }
